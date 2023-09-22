@@ -1,3 +1,3 @@
-# ne0n-oct0
+Welcome to ne0n-oct0!! Find great things here!
 
-Welcome to ne0n-oct0!!
+![A photo of a bear](https://placebear.com/512/512)
